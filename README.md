@@ -1,2 +1,2 @@
-# sm-sync
-Shared-memory algorithms for synchronization in Rust
+# sm-mutex
+Shared-memory algorithms for mutual exclusion in Rust
